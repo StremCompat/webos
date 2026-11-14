@@ -25,7 +25,7 @@
         "rootRequired": false,
         "ipkUrl": "https://stremcompat.github.io/webos/native/io.github.alexesmm.stremcompat.native_5.0.0_arm.ipk",
         "ipkHash": {
-          "sha256": "401ce05d84382f7a961fee98866b07b6f8ddcfd92ec2f60abae0c6e018ca5e8a"
+          "sha256": "dfde6ec3bb8da464e34b7ddc53e73a191650b979c555cc82d5fb1e0817eca6c6"
         }
       }
     }
