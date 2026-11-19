@@ -6,12 +6,16 @@
 
 <p align="center">
   <a href="https://github.com/StremCompat/webos/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/StremCompat/webos?display_name=tag&color=0F766E"></a>
+  <a href="https://github.com/StremCompat/webos/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/StremCompat/webos/total?color=0F766E"></a>
   <img alt="LG webOS 3 and newer" src="https://img.shields.io/badge/LG%20webOS-3%20and%20newer-0F766E">
   <img alt="No root required" src="https://img.shields.io/badge/root-not%20required-2ea44f">
   <img alt="Unofficial community project" src="https://img.shields.io/badge/project-unofficial%20community-ea345e">
   <a href="https://github.com/StremCompat/webos/discussions"><img alt="Discussions" src="https://img.shields.io/badge/community-Discussions-2ea44f"></a>
+  <a href="https://github.com/StremCompat/webos/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/StremCompat/webos?style=flat"></a>
   <a href="https://buymeacoffee.com/Alexesmm"><img alt="Buy me a coffee" src="https://img.shields.io/badge/support-Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"></a>
 </p>
+
+<p align="center"><b>English</b> · <a href="README.pt.md">Português</a></p>
 
 StremCompat brings your **Stremio or Nuvio** account and addons to LG TVs, including the 2016 to 2019 sets (webOS 3 and 4) where the official apps cannot be installed. It is made for the remote, needs no root and no computer (not even for torrents), and installs and updates from the Homebrew Channel.
 
