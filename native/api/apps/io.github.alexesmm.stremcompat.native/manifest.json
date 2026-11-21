@@ -1,14 +1,14 @@
 {
   "id": "io.github.alexesmm.stremcompat.native",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "type": "native",
   "title": "StremCompat Native (Beta)",
   "appDescription": "The native StremCompat: faster, drawn by the TV itself, still in test. Your Stremio or Nuvio account and addons, no root.",
   "iconUri": "https://stremcompat.github.io/webos/native/icon.png",
   "sourceUrl": "https://github.com/StremCompat/stremcompat",
   "rootRequired": false,
-  "ipkUrl": "https://stremcompat.github.io/webos/native/io.github.alexesmm.stremcompat.native_5.3.0_arm.ipk",
+  "ipkUrl": "https://stremcompat.github.io/webos/native/io.github.alexesmm.stremcompat.native_5.3.1_arm.ipk",
   "ipkHash": {
-    "sha256": "de4820ff334d0d3221241e4676808b1d1dee19f42dc56fbedd4112ef36679b7c"
+    "sha256": "d58a26e069680fddce6572433c4da2906c82efc13e9f631f051808abcbd05e9f"
   }
 }
