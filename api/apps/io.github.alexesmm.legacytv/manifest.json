@@ -1,14 +1,14 @@
 {
   "id": "io.github.alexesmm.legacytv",
-  "version": "4.6.0",
+  "version": "4.7.0",
   "type": "web",
   "title": "StremCompat",
   "appDescription": "Your Stremio or Nuvio account and addons on older LG TVs (webOS 3 and newer). Unofficial, and it needs no root.",
   "iconUri": "https://stremcompat.github.io/webos/icon.png",
   "sourceUrl": "https://github.com/StremCompat/stremcompat",
   "rootRequired": false,
-  "ipkUrl": "https://stremcompat.github.io/webos/io.github.alexesmm.legacytv_4.6.0_all.ipk",
+  "ipkUrl": "https://stremcompat.github.io/webos/io.github.alexesmm.legacytv_4.7.0_all.ipk",
   "ipkHash": {
-    "sha256": "6677476d7e405370c10377468c74ef2e59dade5037c0c556baf4b3856b1e82fd"
+    "sha256": "b53b2a69d7f89421a5fbc5eeedf380279d3cefcefe15913ce439c8d6a9a4bcf0"
   }
 }
